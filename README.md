@@ -17,8 +17,10 @@ My credentials include a MBA in Finance (FGV), an institution of higher educatio
 
 
 ## Projetos:
-Estou contruindo meu portfólio de análise de dados e indico os tutoriais publicados do Sigmoidal:
+Estou contruindo meu portfólio de análise de dados :
 
+
+Indico os tutoriais publicados do Sigmoidal:
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
