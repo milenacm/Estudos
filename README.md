@@ -18,6 +18,7 @@ My credentials include a MBA in Finance (FGV), an institution of higher educatio
 
 ## Projetos:
 Estou contruindo meu portfólio de análise de dados :
+* **Análise exploratória Airbnb em Florença:** https://bit.ly/3HlraKk
 
 
 Indico os tutoriais publicados do Sigmoidal:
